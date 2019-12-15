@@ -1,2 +1,4 @@
 # UCD-STA135
-Projects on Multivar Data Analysis
+Project on Multivar Data Analysis
+
+Project title: Multi-class Classification Practice on the iris data<br>
